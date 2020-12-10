@@ -1,3 +1,5 @@
+# THIS REPO HAS MOVED https://gitlab.com/webliero/webliero_mods
+
 # Scharnvirk/Jerac's webliero mods
 
 ## Webliero
@@ -6,7 +8,7 @@ You can play it for free in your browser at https://www.webliero.com/
 
 ## How to use the mods
 
-This repo contains my mods for the game. 
+This repo contains my mods for the game.
 To use a mod:
 - download all its files (`.json5` and `.wlsprt` files) from relevant folder
 - open chat (`enter` by default)
